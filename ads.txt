@@ -1,0 +1,3 @@
+# Replace the line below with the exact ads.txt entry provided by Google AdSense.
+# Example format:
+# google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
