@@ -3,8 +3,8 @@
 A responsive static website prepared for an AdSense setup.
 
 ## Before publishing
-1. Replace `https://YOUR-DOMAIN.example/` with your real domain in the canonical tags, `robots.txt`, and `sitemap.xml`.
-2. Replace `YOUR-EMAIL@example.com` in `contact.html` and `privacy.html`.
+1. Replace `https://shariffbmf.github.io/` with your real domain in the canonical tags, `robots.txt`, and `sitemap.xml`.
+2. Replace `johnndegwa401@gmail.com` in `contact.html` and `privacy.html`.
 3. Create/connect your Google AdSense account.
 4. Copy the exact AdSense code Google gives you into the `<head>` of the pages, or use the AdSense connection method supported by your host.
 5. Replace the placeholder `ads.txt` contents with the exact entry supplied in your AdSense account.
