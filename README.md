@@ -6,7 +6,9 @@ A responsive static website prepared for an AdSense setup.
 1. Replace `https://shariffbmf.github.io/` with your real domain in the canonical tags, `robots.txt`, and `sitemap.xml`.
 2. Replace `johnndegwa401@gmail.com` in `contact.html` and `privacy.html`.
 3. Create/connect your Google AdSense account.
-4. Copy the exact AdSense code Google gives you into the `<head>` of the pages, or use the AdSense connection method supported by your host.
+4. Copy the exact AdSense code Google gives you into the `<amp-auto-ads type="adsense"
+        data-ad-client="ca-pub-7414310684890014">
+</amp-auto-ads>` of the pages, or use the AdSense connection method supported by your host.
 5. Replace the placeholder `ads.txt` contents with the exact entry supplied in your AdSense account.
 6. Add more original, useful articles/tutorials before requesting review.
 7. Test mobile navigation, links, HTTPS, contact details and all pages.
