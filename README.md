@@ -3,7 +3,11 @@
 A responsive static website prepared for an AdSense setup.
 
 ## Before publishing
-1. Replace `https://shariffbmf.github.io/` with your real domain in the canonical tags, `robots.txt`, and `sitemap.xml`.
+1. Replace `https://shariffbmf.github.io/` with your real domain in the canonical tags, `User-agent: *
+Allow: /
+
+Sitemap: https://shariffbmf.github.io/sitemap.xml
+`, and `sitemap.xml`.
 2. Replace `johnndegwa401@gmail.com` in `contact.html` and `privacy.html`.
 3. Create/connect your Google AdSense account.
 4. Copy the exact AdSense code Google gives you into the `<amp-auto-ads type="adsense"
